@@ -1,3 +1,3 @@
 # amit-website
 
-I build this website using R markdown.
+I have build this website using R markdown ([blogdown](https://bookdown.org/yihui/blogdown/)).
